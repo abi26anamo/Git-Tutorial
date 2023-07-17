@@ -1,0 +1,8 @@
+The main basics commands we use in git are:
+    -git clone
+    -git commit
+    -git add 
+    -git push
+    -git pull 
+    -git fetch
+    -git merge and etc
